@@ -72,3 +72,8 @@ li a {
     font-size: 3.5rem;
     font-weight: 700;
 }
+
+/* Curriculam section design */
+#curriculam-section{
+    background-image: url("../assets/bg.png");
+}
