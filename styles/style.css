@@ -74,17 +74,36 @@ li a {
 }
 
 /* Curriculam section design */
-#curriculum-section{
+#curriculum-section {
     background-image: url("../assets/bg.png");
     height: 880px;
     border-top: 2px dashed gray;
     border-bottom: 2px dashed gray;
 }
 
-.curriculum-cards{
-
+.curriculum-container {
+    padding-top: 60px;
 }
 
-.card{
+.curriculum-title {
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+.curriculum-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.card {
+    text-align: center;
+    padding: 50px 40px;
     max-width: 368px;
+    background: linear-gradient(180.00deg, rgb(222, 245, 255), rgba(255, 255, 255, 0) 40%), rgb(255, 255, 255);
+    border-radius: 18px;
+    /* border: 2px solid red; */
+    box-shadow: inset 0px 0px 28.3px 0.94px rgba(0, 0, 0, 0.05);
 }
