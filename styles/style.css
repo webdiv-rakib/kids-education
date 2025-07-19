@@ -96,6 +96,7 @@ li a {
     justify-content: center;
     gap: 30px;
     margin-top: 80px;
+    border: 2px solid red;
 }
 
 .card {
@@ -106,4 +107,26 @@ li a {
     border-radius: 18px;
     /* border: 2px solid red; */
     box-shadow: inset 0px 0px 28.3px 0.94px rgba(0, 0, 0, 0.05);
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 44px;
+}
+
+.card-des {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 33px;
+}
+
+.read-more {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 38px;
+}
+
+.more {
+    text-decoration: none;
 }
