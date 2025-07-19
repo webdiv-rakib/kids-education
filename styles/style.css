@@ -74,6 +74,17 @@ li a {
 }
 
 /* Curriculam section design */
-#curriculam-section{
+#curriculum-section{
     background-image: url("../assets/bg.png");
+    height: 880px;
+    border-top: 2px dashed gray;
+    border-bottom: 2px dashed gray;
+}
+
+.curriculum-cards{
+
+}
+
+.card{
+    max-width: 368px;
 }
