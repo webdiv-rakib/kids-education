@@ -96,7 +96,6 @@ li a {
     justify-content: center;
     gap: 30px;
     margin-top: 80px;
-    border: 2px solid red;
 }
 
 .card {
@@ -129,4 +128,23 @@ li a {
 
 .more {
     text-decoration: none;
+}
+
+.page-direction {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 80px;
+}
+
+.left-arrow {
+    background-color: #FEA301;
+    padding: 30px;
+    border-radius: 999px;
+}
+
+.right-arrow {
+    background-color: #FEA301;
+    padding: 30px;
+    border-radius: 999px;
 }
