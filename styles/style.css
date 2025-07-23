@@ -57,6 +57,22 @@ li a {
     color: white;
 }
 
+.contact-btn-1 {
+    width: 197px;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: #FEA301;
+    border-radius: 12px;
+    border: none;
+    color: white;
+}
+
+.menu-option {
+    display: none;
+    font-size: 2rem;
+}
+
 .banner-container {
     display: flex;
     justify-content: center;
