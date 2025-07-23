@@ -1,1 +1,14 @@
-@media screen and (max-width: 576px) {}
+@media screen and (max-width: 576px) {
+    .logo-img{
+
+    }
+    .school{
+        display: none;
+    }
+    .lists{
+        display: none;
+    }
+    .contact-btn{
+        display: none;
+    }
+}
