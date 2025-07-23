@@ -164,3 +164,18 @@ li a {
     padding: 30px;
     border-radius: 999px;
 }
+
+/* Story section design */
+#story-section {
+    background-image: url("../assets/bg.png");
+}
+
+.story-1 {
+    max-width: 540px;
+    border: 2px solid red;
+    border-radius: 16px;
+}
+
+.story-2 {
+    max-width: 291px;
+}
