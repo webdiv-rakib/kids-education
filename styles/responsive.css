@@ -80,4 +80,14 @@
         margin-left: 20px;
         margin-top: -25px;
     }
+
+    /* Footer section responsive */
+    .footer-container {
+        grid-template-columns: repeat(1, 1fr);
+        padding: 50px 20px;
+    }
+
+    .copy {
+        text-align: left;
+    }
 }
