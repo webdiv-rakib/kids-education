@@ -43,6 +43,7 @@
     #curriculum-section {
         border: none;
         padding: 0px 10px;
+        height: max-content;
     }
 
     .curriculum-container {
@@ -56,5 +57,27 @@
 
     .page-direction {
         display: none;
+    }
+
+    /* Story section responsive */
+    #story-section {
+        padding-top: 30px;
+    }
+
+    .story-container {
+        padding: 0px 10px;
+    }
+
+    .story {
+        flex-direction: column;
+    }
+
+    .story div img {
+        width: 100%;
+    }
+
+    .date-2 {
+        margin-left: 20px;
+        margin-top: -25px;
     }
 }

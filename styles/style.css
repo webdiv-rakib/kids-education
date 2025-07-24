@@ -167,8 +167,10 @@ li a {
 
 /* Story section design */
 #story-section {
+    padding-top: 50px;
     background-image: url("../assets/bg.png"), linear-gradient(0.00deg, rgba(254, 163, 1, 0.3), rgba(255, 255, 255, 0.3) 100%);
     ;
+    /* display: none; */
 }
 
 .story {
@@ -203,7 +205,7 @@ li a {
 }
 
 .date-2 {
-    background-color: #3CD8E8;
+    background-color: #95B226;
     width: max-content;
     padding: 10px 20px;
     border-radius: 50px;
@@ -211,6 +213,10 @@ li a {
     position: absolute;
     margin-left: 35px;
     color: white;
+}
+
+.date-2:hover {
+    background-color: #5D58F0;
 }
 
 .card-1 {
