@@ -224,3 +224,21 @@ li a {
     background-color: white;
     border-radius: 16px;
 }
+
+/* Footer section design */
+footer {
+    background-color: #01ACFD;
+}
+
+.footer-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 123px 140px;
+    gap: 50px;
+    color: white;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
