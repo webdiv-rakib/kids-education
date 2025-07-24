@@ -196,7 +196,19 @@ li a {
     margin-top: -30px;
     position: absolute;
     margin-left: 35px;
-    
+    color: white;
+
+}
+
+.date-2 {
+    background-color: #3CD8E8;
+    width: max-content;
+    padding: 10px 20px;
+    border-radius: 50px;
+    margin-top: -30px;
+    position: absolute;
+    margin-left: 35px;
+    color: white;
 }
 
 .story-2 {
