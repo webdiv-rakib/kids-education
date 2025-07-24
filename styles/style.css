@@ -211,7 +211,8 @@ li a {
     color: white;
 }
 
-.story-2 {
+.card-1 {
     max-width: 291px;
     background-color: white;
+    border-radius: 16px;
 }
